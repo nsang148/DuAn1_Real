@@ -332,21 +332,21 @@ public class TrangChu extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jPanel10MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel10MouseClicked
-        FormBanHang formBH = new FormBanHang();
-        jDesktopPane1.removeAll();
-        jDesktopPane1.add(formBH).setVisible(true);
+//        FormBanHang formBH = new FormBanHang();
+//        jDesktopPane1.removeAll();
+//        jDesktopPane1.add(formBH).setVisible(true);
     }//GEN-LAST:event_jPanel10MouseClicked
 
     private void jPanel6MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel6MouseClicked
-        FormQuanLyHoaDon formHD = new FormQuanLyHoaDon();
-        jDesktopPane1.removeAll();
-        jDesktopPane1.add(formHD).setVisible(true);
+//        FormQuanLyHoaDon formHD = new FormQuanLyHoaDon();
+//        jDesktopPane1.removeAll();
+//        jDesktopPane1.add(formHD).setVisible(true);
     }//GEN-LAST:event_jPanel6MouseClicked
 
     private void jPanel7MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel7MouseClicked
-        FrmNhanVien formQLNV = new FrmNhanVien();
-        jDesktopPane1.removeAll();
-        jDesktopPane1.add(formQLNV).setVisible(true);
+//        FrmNhanVien formQLNV = new FrmNhanVien();
+//        jDesktopPane1.removeAll();
+//        jDesktopPane1.add(formQLNV).setVisible(true);
     }//GEN-LAST:event_jPanel7MouseClicked
 
     private void jPanel8MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel8MouseClicked
@@ -356,21 +356,21 @@ public class TrangChu extends javax.swing.JFrame {
     }//GEN-LAST:event_jPanel8MouseClicked
 
     private void jPanel9MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel9MouseClicked
-        FormQuanLySach formQLS = new FormQuanLySach();
-        jDesktopPane1.removeAll();
-        jDesktopPane1.add(formQLS).setVisible(true);
+//        FormQuanLySach formQLS = new FormQuanLySach();
+//        jDesktopPane1.removeAll();
+//        jDesktopPane1.add(formQLS).setVisible(true);
     }//GEN-LAST:event_jPanel9MouseClicked
 
     private void jPanel11MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel11MouseClicked
-        FormKhuyenMai formKM = new FormKhuyenMai();
-        jDesktopPane1.removeAll();
-        jDesktopPane1.add(formKM).setVisible(true);
+//        FormKhuyenMai formKM = new FormKhuyenMai();
+//        jDesktopPane1.removeAll();
+//        jDesktopPane1.add(formKM).setVisible(true);
     }//GEN-LAST:event_jPanel11MouseClicked
 
     private void jPanel12MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel12MouseClicked
-        FormKhachHang formKH = new FormKhachHang();
-        jDesktopPane1.removeAll();
-        jDesktopPane1.add(formKH).setVisible(true);
+//        FormKhachHang formKH = new FormKhachHang();
+//        jDesktopPane1.removeAll();
+//        jDesktopPane1.add(formKH).setVisible(true);
     }//GEN-LAST:event_jPanel12MouseClicked
 
     /**
